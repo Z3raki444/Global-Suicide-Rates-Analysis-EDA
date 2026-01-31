@@ -1,0 +1,28 @@
+
+🔹 Insight 1: Global temporal trend
+
+Global suicide rates increased from the late 1980s, peaked around the mid-1990s, and declined steadily thereafter, suggesting the influence of broad time-dependent factors affecting suicide risk worldwide.
+
+🔹 Insight 2: Persistent gender disparity
+
+Across all years, males consistently exhibit substantially higher suicide rates than females, indicating a persistent and global gender disparity in suicide risk.
+
+🔹 Insight 3: Strong age gradient
+
+Suicide rates increase markedly with age, with individuals aged 55–74 and 75+ years showing the highest rates, while rates among children aged 5–14 years remain consistently low.
+
+🔹 Insight 4: Age × sex interaction
+
+Age and sex interact strongly in determining suicide risk, with elderly males exhibiting the highest suicide rates among all demographic groups, far exceeding those observed in females of the same age.
+
+🔹 Insight 5: Geographic heterogeneity
+
+A small number of countries exhibit persistently high average suicide rates, while countries with the highest total suicides differ substantially, reflecting the influence of population size versus population-normalized risk.
+
+🔹 Insight 6: Weak economic association
+
+Suicide rates show substantial variability across all GDP per capita levels, with no strong linear relationship between economic prosperity and suicide risk, indicating that income alone does not explain suicide patterns.
+
+🔹 Insight 7: Correlation structure
+
+Correlation analysis reveals that total suicide counts are strongly associated with population size, while suicide rates per 100,000 population show stronger associations with demographic factors such as age rather than economic indicators.
