@@ -1,0 +1,15 @@
+name: Notebook structure
+on:
+  push:
+  pull_request:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate notebook JSON and committed assets
+        run: |
+          python -m json.tool Notenook.ipynb > /dev/null
+          test -f master.csv
+          test -f Final_data.csv
+          test -d Plots
